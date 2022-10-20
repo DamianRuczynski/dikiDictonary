@@ -258,18 +258,16 @@ ol li p {
 
 .pharsal {
     display: flex;
-    align-items: flex-start;
-}
-
-.wrap {
-
+    align-items: center;
     flex-wrap: wrap;
+    flex-basis: auto;
 }
 
 .pharsal a {
     font-size: 1.5rem;
     text-decoration: none;
 }
+
 
 .engWord {
     display: flex;
@@ -278,9 +276,16 @@ ol li p {
     color: rgb(35, 95, 214);
 }
 
+.engWord:hover {
+    text-decoration: underline;
+}
 
 .transPharsal {
-    color: black;
+    color: #000;
+}
+
+.transPharsal:hover {
+    color: #444;
 }
 
 .sthWord {
