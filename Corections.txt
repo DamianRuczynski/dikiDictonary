@@ -1,0 +1,26 @@
+// TODO
+1. body i html height 100% D
+2. diki logo sie pomniejsza
+3. h3 nie moze byc // zaczynamy od h1
+4. w img logo brakuje linka
+5. w inpucie nie remy, ale procenty
+(powiekszanie czcionki w firefox)
+6. ikonki jako button
+7. buttony musza mieca padding, troche zapasu dla osob z trudnosciami ruchowymi
+8. menu hhamburger wyjmij z header
+9. kontenery w divie a nie w sekcji
+10. margines zalezny od wiekosci czcionki
+11. obrazki z translacji link
+12. w body linia top nie w vh, pixele
+13. za duzo p troche spanow (p to jest dluzsza forma tekstu)
+
+14. doopracowac flex itemy, flex basis A
+
+//ADVICES
+ - i (dla łacinskich), u (unarticuleted mark, jak pisujemy jakis tekst i zaznaczamybłąd)
+strong to jak jest aapit tekstu i podkreslamy wazne slowo tak samo em.
+ - nie uzywamy pseudoklas dla * 
+ - nie usuwamy outline 
+
+
+ - POCZYTAJ O WCAG dla stron internetowych!
